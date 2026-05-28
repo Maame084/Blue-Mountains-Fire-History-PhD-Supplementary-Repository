@@ -1,0 +1,2 @@
+# Blue-Mountains-Fire-History-PhD-Supplementary-Repository
+Supplementary data repository for the PhD thesis of Maame Adwoa Maisie (University of Wollongong), containing palaeofire datasets, Raman spectroscopy analyses, chronology models, geochemical data, statistical workflows, scripts, and supplementary figures related to Twentieth Century fire regime variability in the Upper Blue Mountains, Australia.
