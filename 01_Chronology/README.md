@@ -1,14 +1,41 @@
 # Chronology Data
 
-This folder contains radiocarbon datasets, OxCal scripts, Bayesian age-depth models, posterior age distributions, and supplementary chronology outputs associated with the sediment cores analysed in this thesis.
+## Purpose
 
-Chronological modelling was conducted using OxCal v4.4, incorporating SHCal20 and Bomb21SH12 calibration curves where appropriate. These chronological frameworks underpin the reconstruction of Twentieth-Century fire regime variability in the Upper Blue Mountains, eastern Australia.
+This folder contains the complete chronological framework supporting the palaeofire reconstructions presented in the thesis.
 
-Contents include:
+The chronology establishes the temporal framework for all sedimentary proxies, including charcoal accumulation, Raman-derived thermal maturity, loss-on-ignition, magnetic susceptibility and ITRAX XRF analyses.
 
-* Radiocarbon age determinations
-* OxCal scripts and model structures
-* Age-depth modelling outputs
-* Posterior probability distributions
-* Chronology figures and supplementary plots
-* Interpolated age models and associated datasets
+The files in this folder correspond to Chapters 3, 4 and 5 of the thesis.
+
+---
+
+## Folder contents
+
+### 01 Radiocarbon Data
+
+Original radiocarbon determinations and laboratory metadata.
+
+### 02 OxCal Models
+
+Bayesian age-depth models developed using OxCal v4.4.
+
+### 03 Age-Depth Models
+
+Modelled ages, uncertainty estimates and exported chronology tables.
+
+### 04 Sedimentation Rates
+
+Calculated sedimentation rates derived from Bayesian age-depth models.
+
+### 05 Figures
+
+Chronology figures used in the thesis.
+
+### 06 Scripts
+
+Supporting scripts used for chronology processing.
+
+### 07 Metadata
+
+Documentation describing chronology variables and file contents.
