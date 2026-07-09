@@ -1,0 +1,13 @@
+Packaged file,Original source file,Content/Purpose,Size,Processing note
+S6_01_Calibration_Manuscript_Draft_Source.docx,Caibration ms J Raman Spectro draft 1.docx,"Manuscript-style Raman calibration draft; source context for calibration design, acquisition, parameters and discussion.",608.7 KB,Retained as uploaded; no measured values altered.
+S6_02_Calibration_Raman_Parameters_All_Species.xlsx,Calibration experiment Raman parameters all species BEST.xlsx,Calibration Raman parameter workbook for the four Eucalypt species and applied heat-flux treatments.,140.3 KB,Retained as uploaded; no measured values altered.
+S6_03_GeoRaman_2024_Presentation_Source.pptx,GeoRaman 2024 BEST.pptx,"Presentation source material showing calibration, thesis framing and Raman application to THPSS records; retained as contextual supporting material.",47205.8 KB,Retained as uploaded; no measured values altered.
+S6_04_ANOVA_Calibration_Experiment_Source.docx,ANOVA calibration experiment.docx,ANOVA/Tukey supporting material for calibration experiment Raman parameters.,1251.5 KB,Retained as uploaded; no measured values altered.
+S6_05_Baseline_Correction_Original.py,Baseline correction.py,Original baseline-correction code fragment used for linear baseline correction over 900-2000 cm-1.,0.5 KB,Retained as uploaded; no measured values altered.
+S6_06_Charcoal_Swamps_PLS_Notes.docx,Charcoal swamps.docx,"PLS/biPLS modelling notes, model comparison, preprocessing notes and swamp-application comments.",364.7 KB,Retained as uploaded; no measured values altered.
+S6_07_Chris_All_Raman_Data.xlsx,ChrisAllDataxlsx.xlsx,Raman data workbook containing fitted/reconstructed spectral information used in the calibration/sedimentary workflow.,5085.7 KB,Retained as uploaded; no measured values altered.
+S6_08_Chris_Peak_Fits_Calibration.xlsx,ChrisPeakFits.xlsx,Calibration peak-fit workbook; includes ratios/fit outputs used in Raman parameter analysis.,1167.2 KB,Retained as uploaded; no measured values altered.
+S6_09_Chris_Swamp_Peak_Fits.xlsx,ChrisSwampPeakFits.xlsx,Sedimentary/swamp Raman peak-fit workbook for THPSS charcoal application.,354.4 KB,Retained as uploaded; no measured values altered.
+S6_10_Reconstruct_MATLAB_Live_Script.mlx,Reconstruct.mlx,MATLAB live script linked to spectral reconstruction/chemometric modelling workflow.,519.7 KB,Retained as uploaded; no measured values altered.
+S6_11_Gaussian_Peak_Fitting_Original.py,gaussian.py,Original Gaussian peak-building/fitting support code.,6.8 KB,Retained as uploaded; no measured values altered.
+S6_12_Baseline_Correction_Cleaned_For_Appendix.py,Derived from Baseline correction.py,Cleaned and commented baseline-correction helper for appendix readability.,1.9 KB,Code-only refinement; no data altered.
