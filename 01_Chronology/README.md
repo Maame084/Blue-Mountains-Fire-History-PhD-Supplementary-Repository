@@ -2,7 +2,7 @@
 
 This folder contains radiocarbon datasets, OxCal scripts, Bayesian age-depth models, posterior age distributions, and supplementary chronology outputs associated with the sediment cores analysed in this thesis.
 
-Chronological modelling was conducted using OxCal v4.4, incorporating SHCal20 and Bomb21SH12 calibration curves where appropriate. These chronological frameworks underpin the reconstruction of twentieth-century fire regime variability in the Upper Blue Mountains, eastern Australia.
+Chronological modelling was conducted using OxCal v4.4, incorporating SHCal20 and Bomb21SH12 calibration curves where appropriate. These chronological frameworks underpin the reconstruction of Twentieth-Century fire regime variability in the Upper Blue Mountains, eastern Australia.
 
 Contents include:
 
