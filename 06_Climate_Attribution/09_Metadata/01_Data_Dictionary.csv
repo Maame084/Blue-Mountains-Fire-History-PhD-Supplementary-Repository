@@ -8,7 +8,7 @@ chara_mean_raw_mm2_cm2_yr,mm² cm⁻² yr⁻¹,Mean raw charcoal accumulation ra
 raman_mean_raw_kw_m2,kW m⁻²,Raman-derived thermal maturity / calibrated heat-flux proxy.
 annual_mean_nino34_sst_anomaly_c,°C anomaly,Annual mean Niño 3.4 SST anomaly.
 annual_mean_southern_oscillation_index,index,Annual mean Southern Oscillation Index.
-annual_mean_dmi_ipo_index,index,Annual mean DMI/IPO index value as provided in the uploaded workbook; verify exact index identity.
+annual_mean_dmi_iod_index,index,Annual mean DMI/IOD index value as provided in the uploaded workbook; verify exact index identity.
 annual_mean_daily_max_vpd_kpa,kPa,Vapour pressure deficit; higher values indicate greater atmospheric moisture demand.
 annual_mean_vpd_smooth_365d_centered_kpa,kPa,Vapour pressure deficit; higher values indicate greater atmospheric moisture demand.
 annual_mean_vpd_smooth_1825d_centered_kpa,kPa,Vapour pressure deficit; higher values indicate greater atmospheric moisture demand.
