@@ -21,4 +21,3 @@ The datasets support comparisons between charcoal accumulation, Raman-derived th
 
 ## Important verification note
 
-The uploaded DMI_IPO workbook contained one monthly table without separate sheet names or source metadata distinguishing whether the values are DMI, IPO, or a combined file. It has therefore been cleaned and archived as `DMI_IPO` as supplied. Please verify the exact source and index identity before final citation in the thesis.
