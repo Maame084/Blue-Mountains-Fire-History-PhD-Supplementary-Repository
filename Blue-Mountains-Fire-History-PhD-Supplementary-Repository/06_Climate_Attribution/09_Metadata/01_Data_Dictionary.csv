@@ -1,0 +1,14 @@
+variable_name,units,description
+year,CE,Calendar year.
+rainfall_derived_dryness_mm,mm,Rainfall-derived dryness measure used for attribution panels.
+annual_vpd_kpa,kPa,Vapour pressure deficit; higher values indicate greater atmospheric moisture demand.
+annual_ffdi_index,index,Forest Fire Danger Index annual value.
+blue_mountains_lga_population_persons,persons,Blue Mountains LGA population.
+chara_mean_raw_mm2_cm2_yr,mm² cm⁻² yr⁻¹,Mean raw charcoal accumulation rate.
+raman_mean_raw_kw_m2,kW m⁻²,Raman-derived thermal maturity / calibrated heat-flux proxy.
+annual_mean_nino34_sst_anomaly_c,°C anomaly,Annual mean Niño 3.4 SST anomaly.
+annual_mean_southern_oscillation_index,index,Annual mean Southern Oscillation Index.
+annual_mean_dmi_labelled_index,index,Annual mean of the climate-index series analysed under the label DMI. Original provider metadata could not be independently verified during archiving; values are preserved exactly as analysed.
+annual_mean_daily_max_vpd_kpa,kPa,Vapour pressure deficit; higher values indicate greater atmospheric moisture demand.
+annual_mean_vpd_smooth_365d_centered_kpa,kPa,Vapour pressure deficit; higher values indicate greater atmospheric moisture demand.
+annual_mean_vpd_smooth_1825d_centered_kpa,kPa,Vapour pressure deficit; higher values indicate greater atmospheric moisture demand.

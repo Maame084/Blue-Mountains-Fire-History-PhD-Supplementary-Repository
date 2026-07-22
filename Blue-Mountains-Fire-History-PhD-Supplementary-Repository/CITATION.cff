@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the associated PhD thesis."
+title: "Blue Mountains Fire History PhD Supplementary Repository"
+type: dataset
+authors:
+  - family-names: "Maisie"
+    given-names: "Maame Adwoa"
+    affiliation: "University of Wollongong"
+version: "1.0.0"
+date-released: "2026-07-22"
+repository-code: "https://github.com/Maame084/Blue-Mountains-Fire-History-PhD-Supplementary-Repository"
+url: "https://github.com/Maame084/Blue-Mountains-Fire-History-PhD-Supplementary-Repository"
+license: "CC-BY-4.0"
+keywords:
+  - fire history
+  - palaeofire
+  - sedimentary charcoal
+  - Raman spectroscopy
+  - Blue Mountains
+  - Temperate Highland Peat Swamps on Sandstone
+  - climate attribution
+  - age-depth modelling
+abstract: >-
+  Supplementary datasets, selected analytical scripts, code fragments,
+  statistical outputs and documentation associated with a PhD investigation
+  of twentieth-century fire-regime variability in Temperate Highland Peat
+  Swamps on Sandstone in the upper Blue Mountains, eastern Australia.

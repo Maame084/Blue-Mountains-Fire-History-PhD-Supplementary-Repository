@@ -1,0 +1,39 @@
+# R session and user files
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Renviron
+.Rproj.user/
+
+# R build, cache and rendered intermediates
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+*_cache/
+/cache/
+*.utf8.md
+*.knit.md
+vignettes/*.html
+vignettes/*.pdf
+docs/
+po/*~
+rsconnect/
+.httr-oauth
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office and editor temporary files
+~$*
+*.tmp
+*.bak
+*.swp

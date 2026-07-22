@@ -1,0 +1,11 @@
+﻿Packaged file,Original source file,Content/Purpose,Size,Processing note
+S6_02_Calibration_Raman_Parameters_All_Species.xlsx,Calibration experiment Raman parameters all species BEST.xlsx,Calibration Raman parameter workbook for the analysed species and applied heat-flux treatments.,140.5 KB,Retained as supplied; no measured values altered.
+S6_04_ANOVA_Calibration_Experiment_Source.docx,ANOVA calibration experiment.docx,ANOVA and Tukey supporting material for the Raman calibration experiment.,1251.5 KB,Retained as supplied; no measured values altered.
+S6_05_Baseline_Correction_Original.py,Baseline correction.py,Original linear baseline-correction code fragment for the 900–2000 cm⁻¹ spectral region.,0.5 KB,Retained as supplied; historical fragment and not standalone executable Python.
+S6_07_All_Raman_Data.xlsx,AllDataxlsx.xlsx,Raman data workbook used in the calibration and sedimentary workflow.,3619.8 KB,External workbook links and private source paths removed; all cell values verified unchanged; 15 internal formulas flattened to cached values and documented in S6_07_Formula_Map.csv.
+S6_07_Formula_Map.csv,Derived during repository cleaning,Map of the 15 formulas flattened from S6_07_All_Raman_Data.xlsx.,2.2 KB,Added for transparency and reproducibility after external-link sanitisation.
+S6_08_Peak_Fits_Calibration.xlsx,PeakFits.xlsx,Calibration peak-fit workbook.,1171.7 KB,Retained cell note: Brynn Hibbert: Removed lines with R^2&lt;0.97 142 reduced to 134
+S6_09_Swamp_Peak_Fits.xlsx,SwampPeakFits.xlsx,Sedimentary charcoal Raman peak-fit workbook.,354.4 KB,Retained as supplied; no measured values altered.
+S6_10_Reconstruct_MATLAB_Live_Script.mlx,Reconstruct.mlx,MATLAB live script associated with spectral reconstruction or chemometric modelling.,519.7 KB,Retained as supplied.
+S6_11_Gaussian_Peak_Fitting_Original.py,gaussian.py,Original Gaussian peak-building and fitting support code.,6.8 KB,Retained as supplied; syntactically valid Python.
+S6_12_Baseline_Correction_Cleaned_For_Appendix.py,Derived from Baseline correction.py,Cleaned and commented baseline-correction helper for appendix readability.,2.0 KB,Code-only refinement; syntactically valid Python; depends on the original local spectrum class.
