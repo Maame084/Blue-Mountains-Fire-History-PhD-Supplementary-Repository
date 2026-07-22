@@ -15,8 +15,7 @@ This repository accompanies the PhD thesis:
 
 It is a supplementary research archive containing machine-readable datasets, selected analytical scripts and code fragments, statistical outputs, supplementary figures and documentation used in the thesis. Complete methodological descriptions, interpretation and conclusions remain in the thesis.
 
-The repository is intended to support transparent inspection of the evidence used in the thesis. It is not presented as a fully automated end-to-end reproducibility package because some original analysis-environment dependencies and climate-attribution scripts were not available for public archiving. These limitations are documented in `KNOWN_LIMITATIONS.md` and the relevant folder READMEs.
-
+The repository is intended to support transparent inspection of the evidence used in the thesis. It is not presented as a fully automated end-to-end reproducibility package because some original analysis-environment dependencies and climate-attribution scripts were not available for public archiving. 
 ## Repository structure
 
 | Folder | Contents | Thesis linkage |
@@ -35,8 +34,7 @@ See `THESIS_REPOSITORY_CROSSWALK.md` for the detailed connection between the the
 1. Read `REPOSITORY_MANIFEST.csv` to identify the archived files, checksums and thesis linkage.
 2. Read the README inside the relevant analytical folder.
 3. Use the thesis methods chapter as the authoritative description of the analytical workflow.
-4. Consult `KNOWN_LIMITATIONS.md` before reusing or interpreting the archived materials.
-5. Verify downloaded files against `SHA256SUMS.txt`.
+4. Verify downloaded files against `SHA256SUMS.txt`.
 
 ## Software represented in the archive
 
@@ -51,9 +49,6 @@ The archived workflows and files use or reference:
 
 Some scripts depend on functions, classes, software or source files from the original analysis environment and are retained as methodological documentation rather than standalone executable packages. Folder-level READMEs identify these cases.
 
-## Important climate-index provenance note
-
-The climate-attribution folder includes a series that was analysed in the thesis under the label **DMI**. During final archiving, the original provider metadata for that series could not be independently verified. The repository preserves the exact values used in the thesis and does not recalculate or replace them. The filenames and variable names therefore use **DMI-labelled** rather than asserting that the archived values are an independently verified official DMI/IOD product. Results involving this series should be interpreted with the limitation stated in the thesis and `KNOWN_LIMITATIONS.md`.
 
 ## Citation
 
