@@ -5,7 +5,8 @@
 **Author:** Maame Adwoa Maisie  
 **Institution:** University of Wollongong  
 **GitHub:** https://github.com/Maame084/Blue-Mountains-Fire-History-PhD-Supplementary-Repository  
-**Zenodo DOI:** to be added when version 1.0.0 is published on Zenodo
+**Zenodo DOI:**https://doi.org/10.5281/zenodo.21481862
+
 
 ## Repository overview
 
@@ -15,7 +16,7 @@ This repository accompanies the PhD thesis:
 
 It is a supplementary research archive containing machine-readable datasets, selected analytical scripts and code fragments, statistical outputs, supplementary figures and documentation used in the thesis. Complete methodological descriptions, interpretation and conclusions remain in the thesis.
 
-The repository is intended to support transparent inspection of the evidence used in the thesis. It is not presented as a fully automated end-to-end reproducibility package because some original analysis-environment dependencies and climate-attribution scripts were not available for public archiving. 
+The repository is intended to support transparent inspection of the evidence used in the thesis.  
 ## Repository structure
 
 | Folder | Contents | Thesis linkage |
@@ -54,9 +55,8 @@ Some scripts depend on functions, classes, software or source files from the ori
 
 Before the Zenodo record is published, cite the GitHub release as:
 
-> Maisie, M.A. (2026). *Blue Mountains Fire History PhD Supplementary Repository*, version 1.0.0 [dataset and selected software]. GitHub. https://github.com/Maame084/Blue-Mountains-Fire-History-PhD-Supplementary-Repository
+> Maisie, M. A. (2026). Blue Mountains Fire History PhD Supplementary Repository (Version 1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21481862
 
-After Zenodo publication, replace the GitHub-only citation with the version-specific Zenodo citation and DOI shown on the record. Cite the PhD thesis separately.
 
 ## Licence
 
